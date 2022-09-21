@@ -1,0 +1,18 @@
+body {
+  margin: 20px 200px;
+
+  text-align: center;
+  background-color: palegoldenrod;
+}
+
+.links {
+  margin: 30px auto;
+}
+.links a {
+  margin: 30px;
+  color: green;
+}
+img {
+  max-width: 500px;
+  border-radius: 4px;
+}
